@@ -1,0 +1,315 @@
+_id,issue_type,priority,components,time_needed
+58bfd11a0ccb2667fe27318b,Bug,Major,['tests'],25269105.855
+58bfd1cc0ccb2667fe273e6b,Sub-task,Major,['server'],24277434.149
+58bfcb820ccb2667fe26af32,Bug,Major,['contrib-bookkeeper'],8380262.002
+58bfcb820ccb2667fe26af47,Improvement,Major,['contrib-bookkeeper'],2494078.04
+58bfcac50ccb2667fe26a0dd,Bug,Major,['tests'],52687416.122
+58bfd2a00ccb2667fe2754c7,Bug,Major,['tests'],23248944.306
+58bfd2a70ccb2667fe27560f,Improvement,Major,['security'],5118628.177
+58bfcac50ccb2667fe26a0de,Bug,Major,['java client'],7374941.112
+58bfcb400ccb2667fe26aa90,Improvement,Major,['contrib-bookkeeper'],5608318.825
+58bfcb850ccb2667fe26afa0,Bug,Major,['leaderElection'],7907515.033
+58bfcb860ccb2667fe26afb5,Bug,Blocker,['c client'],2899849.666
+58bfcb8d0ccb2667fe26b065,New Feature,Major,[],6479725.285
+58bfcb920ccb2667fe26b0d3,Improvement,Minor,['java client'],5517983.582
+58bfcb980ccb2667fe26b164,Bug,Blocker,[],1190666.85
+58bfcb9c0ccb2667fe26b1b5,Sub-task,Major,[],1810165.291
+58bfcba30ccb2667fe26b245,Bug,Blocker,"['java client', 'c client']",1174050.536
+58bfcba70ccb2667fe26b28f,Improvement,Major,[],2931850.711
+58bfcaa00ccb2667fe269e5f,Bug,Major,"['java client', 'c client', 'server']",1265273.899
+58bfcaa20ccb2667fe269e77,Bug,Major,['leaderElection'],3456657.365
+58bfcaaf0ccb2667fe269ef4,Bug,Major,"['c client', 'documentation']",2081391.786
+58bfcacc0ccb2667fe26a182,Bug,Major,['build'],6944748.983
+58bfcad20ccb2667fe26a25a,Bug,Major,['quorum'],5275592.936
+58bfcada0ccb2667fe26a2ec,Improvement,Major,['build'],3964626.671
+58bfcae30ccb2667fe26a3a8,Bug,Major,['leaderElection'],1302998.164
+58bfcaea0ccb2667fe26a42e,Bug,Major,[],1765294.118
+58bfd3520ccb2667fe27667b,Bug,Critical,['c client'],19035694.955
+58bfcba90ccb2667fe26b2c4,Bug,Critical,['server'],2593908.939
+58bfcbba0ccb2667fe26b3f8,Improvement,Major,['tests'],21855818.355
+58bfcbc20ccb2667fe26b4bd,Bug,Critical,['leaderElection'],2592212.239
+58bfd39a0ccb2667fe276f79,Improvement,Major,['quorum'],9108657.38
+58bfcbe10ccb2667fe26b7a5,Bug,Major,['contrib-bindings'],15193459.96
+58bfcbe60ccb2667fe26b81c,Improvement,Major,['tests'],16308637.002
+58bfcbf00ccb2667fe26b91c,Task,Minor,['tests'],16584878.682
+58bfcbf40ccb2667fe26b98f,Bug,Major,['c client'],13483347.026
+58bfcc100ccb2667fe26bc85,Bug,Critical,['tests'],11907447.847
+58bfcc140ccb2667fe26bcd6,Bug,Major,[],3699548.735
+58bfcc260ccb2667fe26beee,Bug,Major,['c client'],4997820.141
+58bfcc410ccb2667fe26c15b,Bug,Major,[],1882165.386
+58bfcc9f0ccb2667fe26c5c6,Bug,Critical,['java client'],24786213.322
+58bfcd3a0ccb2667fe26d2b2,Improvement,Major,[],36919677.076
+58bfcd440ccb2667fe26d3b5,Bug,Blocker,['java client'],37544405.68
+58bfcd6d0ccb2667fe26d96c,Sub-task,Major,['java client'],32691430.498
+58bfcd800ccb2667fe26dc09,Bug,Major,['scripts'],43713272.017
+58bfcda30ccb2667fe26dfda,Bug,Major,['c client'],50118260.348
+58bfcdb20ccb2667fe26e1b5,Bug,Major,['contrib-bindings'],49428069.558
+58bfcde90ccb2667fe26e6ce,New Feature,Major,['jute'],50163144.761
+58bfd2ae0ccb2667fe275723,Bug,Major,[],18981677.603
+58bfcb710ccb2667fe26adce,Bug,Critical,['server'],7169817.227
+58bfcb750ccb2667fe26ae1d,Bug,Major,[],8287204.342
+58bfcb830ccb2667fe26af6c,Improvement,Minor,['contrib-bookkeeper'],3494932.257
+58bfcbcc0ccb2667fe26b5c5,New Feature,Major,['quorum'],11214649.061
+58bfca980ccb2667fe269e11,New Feature,Major,['java client'],6572175.263
+58bfcaae0ccb2667fe269ee8,New Feature,Major,['server'],11762577.341
+58bfcab20ccb2667fe269f27,Bug,Minor,"['java client', 'c client']",2202911.55
+58bfcabb0ccb2667fe26a012,Improvement,Major,['server'],694085.941
+58bfcacd0ccb2667fe26a1ae,Improvement,Major,['server'],7612628.616
+58bfcb4b0ccb2667fe26ab9e,Improvement,Major,['build'],7385723.643
+58bfcb4f0ccb2667fe26ac55,Improvement,Major,['build'],8447701.016
+58bfcb840ccb2667fe26af87,Improvement,Major,['contrib-bookkeeper'],7215098.44
+58bfcb930ccb2667fe26b0fe,Bug,Critical,[],4160580.68
+58bfcb940ccb2667fe26b115,Bug,Minor,['java client'],6214123.004
+58bfcb9a0ccb2667fe26b199,Sub-task,Major,[],4243703.874
+58bfcb9f0ccb2667fe26b1f4,Bug,Major,[],4327615.859
+58bfcba20ccb2667fe26b233,Task,Major,['documentation'],765218.411
+58bfcba70ccb2667fe26b2a3,Improvement,Minor,['java client'],2583955.195
+58bfcabc0ccb2667fe26a033,Improvement,Major,['tests'],6837841.47
+58bfcacb0ccb2667fe26a16d,Bug,Major,['tests'],5013928.429
+58bfcad00ccb2667fe26a236,Bug,Major,['server'],3999645.069
+58bfcadc0ccb2667fe26a310,Sub-task,Major,['java client'],4506714.402
+58bfcadf0ccb2667fe26a34c,Bug,Major,[],3999300.494
+58bfcaf20ccb2667fe26a4da,Bug,Critical,['quorum'],2782594.339
+58bfcb050ccb2667fe26a632,Bug,Major,['java client'],9416563.283
+58bfcbb20ccb2667fe26b374,Bug,Blocker,[],674568.581
+58bfcbe70ccb2667fe26b839,Improvement,Minor,['server'],11667046.9
+58bfcbea0ccb2667fe26b8a9,Improvement,Major,['contrib-bookkeeper'],5720289.576
+58bfcbf50ccb2667fe26b9ab,Bug,Blocker,"['quorum', 'server']",13482531.029
+58bfcc020ccb2667fe26bb12,Improvement,Minor,['tests'],1792320.576
+58bfcc180ccb2667fe26bd57,Bug,Major,['c client'],1275564.593
+58bfcc230ccb2667fe26bec7,Bug,Minor,"['java client', 'server']",9066363.332
+58bfcc330ccb2667fe26c03a,Bug,Critical,['server'],5676512.364
+58bfcc8d0ccb2667fe26c4a6,Bug,Critical,"['c client', 'contrib-bindings']",34960711.515
+58bfcc9f0ccb2667fe26c5cf,Bug,Blocker,['java client'],40441199.356
+58bfcd090ccb2667fe26cc5e,Bug,Major,['scripts'],31864144.918
+58bfcd190ccb2667fe26cf0f,Bug,Major,[],19374703.095
+58bfcd350ccb2667fe26d21f,Bug,Minor,"['quorum', 'server']",50118216.071
+58bfcd3c0ccb2667fe26d2de,Bug,Major,['java client'],38779105.757
+58bfcd4f0ccb2667fe26d501,Improvement,Minor,['contrib'],46665386.725
+58bfcd6f0ccb2667fe26d9b8,New Feature,Major,['contrib-bookkeeper'],24874642.293
+58bfcd780ccb2667fe26dad0,Bug,Blocker,[],33875132.5
+58bfcd8f0ccb2667fe26dd81,Improvement,Trivial,['contrib-bindings'],42507865.862
+58bfcdaa0ccb2667fe26e089,Bug,Major,['contrib-bindings'],48981670.41
+58bfcdd50ccb2667fe26e4ed,New Feature,Major,['java client'],51295909.693
+58bfcbaa0ccb2667fe26b2d3,Improvement,Trivial,[],2584014.392
+58bfcbc40ccb2667fe26b4ef,Bug,Blocker,"['tests', 'server']",2411580.466
+58bfcbca0ccb2667fe26b583,Bug,Major,['build'],12429811.822
+58bfcbd70ccb2667fe26b654,Bug,Major,['server'],2012462.412
+58bfcbe90ccb2667fe26b88e,Bug,Major,['scripts'],9894300.403
+58bfcbeb0ccb2667fe26b8b7,New Feature,Major,['contrib'],6388417.139
+58bfcbf60ccb2667fe26b9e6,Bug,Major,[],12166790.596
+58bfcc040ccb2667fe26bb46,New Feature,Minor,['java client'],14083775.965
+58bfcc0b0ccb2667fe26bc1a,Improvement,Minor,"['java client', 'c client', 'contrib-bindings', 'server']",13999179.751
+58bfcc190ccb2667fe26bd8d,Bug,Major,"['java client', 'c client']",10602894.349
+58bfcc240ccb2667fe26bed5,Bug,Major,['server'],9058765.593
+58bfcc340ccb2667fe26c059,Improvement,Major,['build'],6306357.49
+58bfcc670ccb2667fe26c3e6,New Feature,Major,['server'],46656711.84
+58bfcc8c0ccb2667fe26c478,Bug,Critical,['server'],34586018.215
+58bfcd070ccb2667fe26cc21,Improvement,Trivial,['contrib'],45227192.177
+58bfcd580ccb2667fe26d64b,Bug,Critical,['server'],26492266.182
+58bfcd5c0ccb2667fe26d6a9,Bug,Critical,['build'],50118252.748
+58bfcda60ccb2667fe26e007,Bug,Minor,['recipes'],48288193.376
+58bfcdb30ccb2667fe26e1ca,Improvement,Minor,['scripts'],32665739.805
+58bfce990ccb2667fe26f300,Bug,Major,['contrib-bookkeeper'],9051122.619
+58bfcea00ccb2667fe26f3de,Bug,Major,['quorum'],3214469.727
+58bfcea80ccb2667fe26f4ca,Bug,Trivial,['leaderElection'],32722986.971
+58bfcf330ccb2667fe27001e,Sub-task,Major,['server'],43716741.705
+58bfcb160ccb2667fe26a788,Improvement,Trivial,['quorum'],5836892.798
+58bfcb1d0ccb2667fe26a7fd,Improvement,Minor,"['java client', 'c client', 'documentation']",5448221.892
+58bfcb220ccb2667fe26a87f,Improvement,Major,['leaderElection'],6219060.625
+58bfcb380ccb2667fe26aa16,Bug,Major,['leaderElection'],1300994.901
+58bfcbc00ccb2667fe26b47e,Bug,Blocker,['quorum'],1315801.122
+58bfcbe80ccb2667fe26b877,Improvement,Major,['contrib-bookkeeper'],8657064.94
+58bfcbec0ccb2667fe26b8ef,Bug,Major,['contrib-bookkeeper'],18147928.377
+58bfcc000ccb2667fe26bad3,Bug,Major,[],15193614.171
+58bfcc050ccb2667fe26bb7b,Improvement,Major,"['quorum', 'server']",13642833.626
+58bfcc090ccb2667fe26bbd9,Bug,Major,"['leaderElection', 'server']",11211457.468
+58bfcc120ccb2667fe26bca4,Improvement,Major,"['jmx', 'server']",5167770.13
+58bfcc170ccb2667fe26bd1f,Bug,Blocker,['server'],10954709.208
+58bfcc1c0ccb2667fe26bdac,Bug,Blocker,['c client'],1277067.538
+58bfcc220ccb2667fe26be85,Bug,Critical,['tests'],9674220.388
+58bfcc280ccb2667fe26bf1e,Improvement,Critical,[],6022233.604
+58bfcc320ccb2667fe26c023,Improvement,Critical,['build'],5529025.387
+58bfcc380ccb2667fe26c0a1,Bug,Critical,[],3008057.655
+58bfcc4a0ccb2667fe26c207,Bug,Blocker,"['c client', 'contrib-bindings']",731294.09
+58bfccaf0ccb2667fe26c657,New Feature,Major,['server'],782631.469
+58bfccc70ccb2667fe26c7a8,New Feature,Major,['server'],5524539.703
+58bfcd100ccb2667fe26cd3f,Improvement,Major,['server'],40683196.452
+58bfcd1d0ccb2667fe26cfac,New Feature,Major,['contrib-bookkeeper'],51331726.982
+58bfcd450ccb2667fe26d3d0,Improvement,Major,"['build', 'c client']",47902060.329
+58bfcd4b0ccb2667fe26d45c,Bug,Blocker,['quorum'],42379807.943
+58bfcd710ccb2667fe26da21,Bug,Blocker,['quorum'],36380414.27
+58bfcd790ccb2667fe26daf6,Bug,Minor,['server'],29452146.737
+58bfcd8e0ccb2667fe26dd72,Improvement,Minor,['contrib-bindings'],39852476.35
+58bfce1f0ccb2667fe26eaed,Improvement,Minor,"['documentation', 'contrib-bindings']",42985950.183
+58bfcea00ccb2667fe26f3e0,Bug,Major,['leaderElection'],2873193.037
+58bfcea70ccb2667fe26f4ab,Bug,Major,['contrib-bookkeeper'],41088766.723
+58bfcf510ccb2667fe27040c,Bug,Critical,['quorum'],15231013.444
+58bfcb120ccb2667fe26a72b,New Feature,Minor,['build'],12949048.885
+58bfcb1a0ccb2667fe26a7c7,Bug,Minor,['c client'],7522068.767
+58bfcb310ccb2667fe26a997,Improvement,Minor,['documentation'],1565460.302
+58bfcb430ccb2667fe26aaa5,New Feature,Major,['server'],6854407.313
+58bfcb5b0ccb2667fe26acbb,Improvement,Minor,['tests'],8461205.052
+58bfcb710ccb2667fe26adcf,Bug,Major,"['jute', 'server']",7413229.617
+58bfccae0ccb2667fe26c638,Improvement,Minor,['c client'],21500085.731
+58bfccc00ccb2667fe26c73c,Bug,Blocker,['server'],850721.006
+58bfcd4b0ccb2667fe26d45b,Bug,Blocker,['server'],14525950.294
+58bfcd650ccb2667fe26d7af,Sub-task,Major,"['contrib-hedwig', 'contrib-bookkeeper']",20421136.679
+58bfcdb80ccb2667fe26e246,Bug,Minor,['build'],6542997.15
+58bfcdcb0ccb2667fe26e408,Bug,Blocker,[],791084.899
+58bfceb60ccb2667fe26f604,Improvement,Major,['tests'],39750136.117
+58bfcf430ccb2667fe270243,Bug,Minor,['server'],16074325.519
+58bfcf5b0ccb2667fe2705e0,Bug,Minor,['quorum'],62595617.585
+58bfcf670ccb2667fe270784,Bug,Major,['server'],16149095.604
+58bfcf710ccb2667fe27095c,Bug,Blocker,['c client'],8018366.979
+58bfd04f0ccb2667fe271dec,Bug,Minor,['scripts'],26507629.917
+58bfcbb10ccb2667fe26b35c,Bug,Blocker,[],692586.722
+58bfcbc60ccb2667fe26b544,Bug,Blocker,['server'],2710537.762
+58bfcbdc0ccb2667fe26b6d2,Sub-task,Major,['tests'],24284770.205
+58bfcbe40ccb2667fe26b7e1,Improvement,Major,['contrib-bookkeeper'],689257.307
+58bfcbea0ccb2667fe26b8a8,Bug,Major,['contrib-bookkeeper'],19278208.803
+58bfcbf20ccb2667fe26b965,Bug,Critical,['contrib-bookkeeper'],19820668.172
+58bfcc010ccb2667fe26baf5,Improvement,Major,"['java client', 'c client', 'tests']",8508440.346
+58bfcc0a0ccb2667fe26bc02,Bug,Major,['c client'],14772768.247
+58bfcc1f0ccb2667fe26be35,Improvement,Major,['server'],1269085.552
+58bfcc300ccb2667fe26bfe4,Bug,Major,['contrib-bindings'],8643991.744
+58bfcc390ccb2667fe26c0b6,Bug,Major,[],3285025.495
+58bfcc470ccb2667fe26c1c9,Bug,Critical,[],1404887.322
+58bfcc830ccb2667fe26c41d,New Feature,Major,['contrib'],43123417.961
+58bfcc9b0ccb2667fe26c589,New Feature,Major,"['java client', 'server']",20990085.057
+58bfccb70ccb2667fe26c6bd,New Feature,Major,['contrib'],40607088.905
+58bfcd040ccb2667fe26cbb3,Bug,Minor,"['quorum', 'server']",25169297.689
+58bfcd400ccb2667fe26d356,Improvement,Trivial,['c client'],68266862.466
+58bfcd570ccb2667fe26d626,Bug,Major,['c client'],34032524.116
+58bfcd670ccb2667fe26d7ec,Bug,Major,['contrib-bookkeeper'],24029349.044
+58bfcdd90ccb2667fe26e579,Bug,Blocker,['server'],49768603.974
+58bfce990ccb2667fe26f301,Bug,Major,['contrib-bookkeeper'],8561799.599
+58bfce9e0ccb2667fe26f3a4,New Feature,Major,['contrib-bookkeeper'],3642798.066
+58bfcea50ccb2667fe26f483,Bug,Major,['c client'],3208398.931
+58bfcf4c0ccb2667fe270399,Bug,Major,['contrib-bindings'],105381539.894
+58bfccd40ccb2667fe26c818,New Feature,Major,['server'],1563733.068
+58bfcd280ccb2667fe26d162,Bug,Blocker,['server'],13656120.442
+58bfcd340ccb2667fe26d212,Bug,Critical,['server'],10448245.769
+58bfcd560ccb2667fe26d5f3,Bug,Critical,"['quorum', 'server']",15632959.061
+58bfcdb00ccb2667fe26e154,Bug,Blocker,['quorum'],8249606.689
+58bfce750ccb2667fe26f0ca,Bug,Major,"['tests', 'server']",16527973.517
+58bfceab0ccb2667fe26f4f1,Bug,Major,"['java client', 'server']",6055315.986
+58bfcf390ccb2667fe2700ee,Improvement,Major,['build'],39818753.024
+58bfcf590ccb2667fe2705a7,Bug,Minor,['tests'],54612591.027
+58bfcf6b0ccb2667fe27086d,Improvement,Minor,[],14163762.078
+58bfcf790ccb2667fe270a87,Bug,Major,['c client'],13544895.964
+58bfcf7f0ccb2667fe270b49,Bug,Critical,['server'],16319613.59
+58bfcf8e0ccb2667fe270d42,Sub-task,Major,['tests'],6330993.553
+58bfd0be0ccb2667fe272898,Bug,Blocker,['server'],20149581.928
+58bfd1010ccb2667fe272f5e,Bug,Blocker,['server'],31482753.297
+58bfd1a20ccb2667fe273bc0,Sub-task,Major,['tests'],3882778.474
+58bfd1cf0ccb2667fe273ebe,Bug,Blocker,['c client'],22927444.151
+58bfd27f0ccb2667fe275075,Bug,Minor,[],29073240.105
+58bfd2990ccb2667fe2753ef,Bug,Major,['server'],23282310.625
+58bfd2b80ccb2667fe27585a,Bug,Major,['scripts'],35230819.921
+58bfd35f0ccb2667fe2767d9,Improvement,Major,['java client'],28447344.062
+58bfd3a00ccb2667fe277133,Bug,Blocker,"['jmx', 'server']",16830232.957
+58bfd3c70ccb2667fe27765c,Bug,Minor,['server'],33755273.025
+58bfcbab0ccb2667fe26b2eb,Bug,Blocker,['server'],1823522.679
+58bfcbd30ccb2667fe26b603,Bug,Critical,['c client'],1534887.112
+58bfcbf30ccb2667fe26b975,Improvement,Major,['build'],16307981.04
+58bfcc080ccb2667fe26bbb5,Bug,Critical,['server'],12411340.064
+58bfcc2c0ccb2667fe26bf8e,Improvement,Major,['c client'],5386747.547
+58bfcc3a0ccb2667fe26c0cf,Improvement,Major,['contrib-bookkeeper'],3283930.681
+58bfcd0b0ccb2667fe26cc80,New Feature,Major,['c client'],14424226.43
+58bfcd220ccb2667fe26d084,New Feature,Major,['build'],10295514.375
+58bfcd360ccb2667fe26d22e,Bug,Major,['contrib-bindings'],47935722.503
+58bfcd910ccb2667fe26dda9,Bug,Major,['server'],37582176.186
+58bfcd9a0ccb2667fe26de9b,Bug,Major,['contrib-bookkeeper'],46782239.879
+58bfcdaf0ccb2667fe26e138,Bug,Critical,[],35691531.813
+58bfcb080ccb2667fe26a666,New Feature,Major,['tests'],1455318.203
+58bfcbbb0ccb2667fe26b419,Improvement,Minor,['c client'],8053961.036
+58bfccc00ccb2667fe26c73b,Bug,Critical,['quorum'],11653667.182
+58bfcd050ccb2667fe26cbea,Bug,Blocker,['java client'],1869498.516
+58bfcd180ccb2667fe26ce9c,Bug,Blocker,['server'],16782081.225
+58bfcd210ccb2667fe26d05c,Bug,Minor,['contrib'],13397696.247
+58bfcd3e0ccb2667fe26d316,Improvement,Major,['java client'],8682576.347
+58bfcf540ccb2667fe270491,Improvement,Major,"['quorum', 'server']",16366768.86
+58bfcf640ccb2667fe270715,Improvement,Major,[],13397523.083
+58bfcf860ccb2667fe270c31,Bug,Critical,['server'],16149071.955
+58bfcf8d0ccb2667fe270d20,Sub-task,Major,['tests'],6330181.013
+58bfcf990ccb2667fe270ebd,Sub-task,Major,['tests'],5993418.681
+58bfcfd90ccb2667fe2713d4,Bug,Critical,['server'],16954482.88
+58bfd2bc0ccb2667fe2758f1,Bug,Major,['c client'],19778045.857
+58bfcb110ccb2667fe26a710,Bug,Critical,['c client'],7502706.385
+58bfcb1f0ccb2667fe26a827,New Feature,Major,[],1191443.619
+58bfcb250ccb2667fe26a8c7,Bug,Major,[],5615240.089
+58bfcb3b0ccb2667fe26aa5e,Bug,Major,['c client'],1821173.236
+58bfcb4c0ccb2667fe26abb1,New Feature,Minor,"['java client', 'c client']",1220078.365
+58bfcb600ccb2667fe26ad13,Improvement,Major,['tests'],8454290.643
+58bfcb660ccb2667fe26ad84,Improvement,Critical,"['java client', 'c client', 'server']",3107362.368
+58bfcd1c0ccb2667fe26cf78,Sub-task,Blocker,[],2424730.114
+58bfcd380ccb2667fe26d28b,Bug,Minor,['server'],4791785.557
+58bfcd770ccb2667fe26dabc,Bug,Minor,['tests'],10444124.155
+58bfcdb70ccb2667fe26e231,Bug,Minor,['c client'],21859953.197
+58bfce940ccb2667fe26f292,Improvement,Minor,['server'],7592099.207
+58bfcf3f0ccb2667fe2701d2,Sub-task,Major,['tests'],4956884.576
+58bfcf480ccb2667fe2702ff,Improvement,Minor,['contrib'],13545264.474
+58bfcf500ccb2667fe2703f4,Bug,Critical,['server'],7630824.367
+58bfcf680ccb2667fe2707a5,Sub-task,Blocker,['quorum'],12559621.731
+58bfcf880ccb2667fe270c6e,Bug,Minor,['c client'],8649773.815
+58bfcf970ccb2667fe270e21,Bug,Blocker,['leaderElection'],12475129.337
+58bfd1040ccb2667fe272fb5,Sub-task,Major,['server'],48695549.865
+58c1199711e1802cacc27467,Improvement,Major,[],9743161.219
+58c1199d11e1802cacc274ca,Task,Trivial,[],15221657.366
+58bfd2a80ccb2667fe27563c,Bug,Minor,['scripts'],28619803.74
+58bfd2b00ccb2667fe275752,Bug,Trivial,[],24185904.272
+58bfd2b90ccb2667fe275894,Bug,Critical,"['build', 'c client']",141783325.236
+58bfd2ec0ccb2667fe275dfc,Improvement,Major,['server'],24233352.942
+58bfd30c0ccb2667fe2760dd,New Feature,Minor,['java client'],43950602.48
+58bfcb5d0ccb2667fe26acd3,Bug,Major,['c client'],12709486.534
+58bfccbf0ccb2667fe26c737,New Feature,Major,['server'],11353713.812
+58bfcb2e0ccb2667fe26a94f,Improvement,Minor,"['java client', 'c client', 'server']",4589131.429
+58bfcb340ccb2667fe26a9dd,Improvement,Major,[],961344.29
+58bfcd050ccb2667fe26cbe9,Bug,Critical,['java client'],5626196.529
+58bfcd120ccb2667fe26cdf8,Bug,Critical,['java client'],12927551.945
+58bfcd220ccb2667fe26d082,Bug,Blocker,['build'],4236355.236
+58bfcd330ccb2667fe26d1f6,Bug,Blocker,[],8735803.23
+58bfcd420ccb2667fe26d389,Improvement,Minor,['build'],7393361.711
+58bfcd4d0ccb2667fe26d4cf,Bug,Blocker,['scripts'],13734611.15
+58bfcd5e0ccb2667fe26d6d3,Bug,Minor,['contrib-bindings'],20594530.345
+58bfcd680ccb2667fe26d803,Bug,Critical,['server'],11461016.792
+58bfcd140ccb2667fe26ce1c,Bug,Critical,['c client'],18623348.921
+58bfcd1f0ccb2667fe26d032,Sub-task,Major,['tests'],7756404.702
+58bfce8e0ccb2667fe26f21e,Improvement,Critical,['quorum'],26245174.077
+58bfcee90ccb2667fe26fac7,Improvement,Major,['quorum'],7418583.992
+58bfcf110ccb2667fe26fd3f,Bug,Major,['java client'],15719512.193
+58bfcf3c0ccb2667fe270153,Bug,Critical,['java client'],15265424.076
+58bfcf470ccb2667fe2702d9,Sub-task,Blocker,['tests'],7310248.221
+58bfcf5f0ccb2667fe27064d,Bug,Major,['java client'],16180461.727
+58bfcf700ccb2667fe270921,Bug,Blocker,['quorum'],39412385.409
+58bfcf930ccb2667fe270db2,Bug,Critical,['server'],7139784.144
+58bfd2820ccb2667fe2750eb,Bug,Blocker,['quorum'],2440158.912
+58bfd2a50ccb2667fe275593,Bug,Blocker,['server'],2783943.289
+58bfd2ce0ccb2667fe275aee,Improvement,Minor,['c client'],24464613.333
+58bfd2f80ccb2667fe275ec4,Bug,Major,['documentation'],3219987.903
+58bfcf440ccb2667fe270264,Bug,Major,['server'],32459324.937
+58bfcf500ccb2667fe2703f3,Bug,Critical,['server'],6904863.645
+58bfcf540ccb2667fe270492,Bug,Critical,['server'],48431866.003
+58bfcf660ccb2667fe270758,Bug,Minor,['java client'],16846157.486
+58bfcf890ccb2667fe270cb3,Bug,Major,[],26041563.836
+58bfd0360ccb2667fe271b3f,Improvement,Major,[],12021987.701
+58bfd1c50ccb2667fe273e32,Improvement,Major,['documentation'],5274365.27
+58bfd2170ccb2667fe2746ad,Bug,Trivial,['quorum'],11561956.573
+58bfd2780ccb2667fe274f7f,Bug,Major,[],29756201.777
+58bfd2880ccb2667fe2751fc,Bug,Blocker,[],31376100.155
+58bfd2a10ccb2667fe2754d6,Bug,Blocker,[],11561349.537
+58bfd2d20ccb2667fe275ba4,Bug,Critical,['java client'],29063163.886
+58bfd33b0ccb2667fe2764b6,Bug,Minor,['java client'],15019728.828
+58bfd3b10ccb2667fe2773ad,Bug,Blocker,['java client'],86195031.227
+58bfcd430ccb2667fe26d39e,Bug,Major,['scripts'],4240088.772
+58bfcdae0ccb2667fe26e0fc,Bug,Blocker,['c client'],8999950.934
+58bfcf580ccb2667fe27056e,Improvement,Minor,['server'],74980322.364
+58bfcf630ccb2667fe2706d9,Bug,Blocker,"['quorum', 'server']",14070888.98
+58bfcf6a0ccb2667fe2707f9,Bug,Critical,['server'],26515141.728
+58bfcf760ccb2667fe270a32,Bug,Blocker,['tests'],39044892.683
+58bfcf810ccb2667fe270b95,Bug,Major,['java client'],14050583.246
+58bfd0410ccb2667fe271c76,Sub-task,Major,['server'],11924036.35
+58bfd16e0ccb2667fe27378f,Bug,Blocker,['quorum'],9685891.828
+58bfd1ba0ccb2667fe273d9e,Sub-task,Major,['c client'],26202357.707
+58bfd2b50ccb2667fe2757c0,Bug,Blocker,"['security', 'kerberos', 'server']",6834906.48
